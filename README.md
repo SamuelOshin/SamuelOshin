@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samueloshin" alt="samueloshin" /></a> </p>
 
-- 🔭 I’m currently interning at HNG12
-
-- 🌱 I’m currently learning **Web Development with Python(Django),FastAPI, Creating API's**
 
 - 📫 How to reach me **samuelt.oshin@gmail.com**
 
